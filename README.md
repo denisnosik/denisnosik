@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi there I'm Denis Nosik👋
+- :blue_heart: I like Go and enjoy building backend systems!
+- :love_letter: Built a [CLI-based messenger](https://github.com/denisnosik/cli-messenger).  
+- :cloud: Currently learning Kubernetes and microservices architecture!
 <!--
 **denisnosik/denisnosik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
