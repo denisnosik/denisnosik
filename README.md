@@ -1,6 +1,6 @@
 ## Hi there I'm Denis Nosik👋
 - :blue_heart: I like Go and enjoy building backend systems!
-- :love_letter: Built a [CLI-based messenger](https://github.com/denisnosik/cli-messenger).  
+- :love_letter: Built a [DEDA Chat](https://github.com/denisnosik/dedachat).  
 - :cloud: Currently learning Kubernetes and microservices architecture!
 - :smiley_cat: Working with Go, Python and C#!
 <!--
