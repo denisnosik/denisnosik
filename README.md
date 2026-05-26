@@ -1,8 +1,24 @@
-## Hi there I'm Denis Nosik👋
-- :blue_heart: I like Go and enjoy building backend systems!
-- :love_letter: Built a [DEDA Chat](https://github.com/denisnosik/dedachat).  
-- :cloud: Currently learning Kubernetes and microservices architecture!
-- :smiley_cat: Working with Go, Python and C#!
+# Hey, I'm Denis 👋
+
+I build backend systems!
+
+### Tech Stack
+- Go
+- Python
+- PostgreSQL
+- Docker
+- Kubernetes
+- RabbitMQ
+
+### Projects
+- :blue_heart: [DEDA Chat](https://github.com/denisnosik/dedachat) — Real-time messaging system written in Go
+
+### Interests
+- Backend architecture
+- Distributed systems
+- Microservices
+- Performance optimization
+- Game development
 <!--
 **denisnosik/denisnosik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
