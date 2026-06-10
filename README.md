@@ -6,16 +6,16 @@ I build backend systems!
 - Go
 - Python
 - PostgreSQL
-- Docker
-- Kubernetes
+- Docker, Kubernetes
+- AWS
 - RabbitMQ
 
 ### Projects
-- :blue_heart: [DEDA Chat](https://github.com/denisnosik/dedachat) — Real-time messaging system written in Go
+- :blue_heart: [DEDA Chat](https://github.com/denisnosik/dedachat) Real-time messaging system written in Go
+- :video_game: Currently working on browser MMO Game
 
 ### Interests
 - Backend architecture
-- Distributed systems
 - Microservices
 - Performance optimization
 - Game development
