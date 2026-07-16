@@ -3,8 +3,7 @@
 I build backend systems!
 
 ### Tech Stack
-- Go
-- Python
+- Go, Python, C#
 - PostgreSQL
 - Docker, Kubernetes
 - AWS
