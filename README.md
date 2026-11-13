@@ -1,2 +1,2 @@
 # Hey, I'm Denis
-# Backend Developer & Game Developer
+Backend Developer & Game Developer
